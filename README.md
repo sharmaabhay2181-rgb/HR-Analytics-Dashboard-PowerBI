@@ -72,17 +72,6 @@ The report has 7 pages, each focused on one view of the workforce.
 | 6. Salary vs Qualification | Scatter chart | Total salary compared across education qualifications |
 | 7. Hiring Trend | Line chart | Headcount and cumulative headcount by date of joining |
 
----
-
-## Key Insights
-
-_Fill this in with your own findings from the data, for example:_
-
-- _Which job title has the highest headcount?_
-- _What is the gender ratio, and does it differ by role?_
-- _Which age group is largest?_
-- _Which qualification group has the highest total salary?_
-- _How did hiring change over time?_
 
 ---
 
